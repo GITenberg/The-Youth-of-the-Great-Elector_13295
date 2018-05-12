@@ -1,0 +1,41 @@
+_repo: The-Youth-of-the-Great-Elector_13295
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Smith, Mary Stuart Harrison
+    birthdate: 1834
+    deathdate: 1917
+    gutenberg_agent_id: '37526'
+    url: http://www.gutenberg.org/2009/agents/37526
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Mühlbach, L. (Luise)
+    aliases:
+    - Mundt, Klara Muller
+    - Mundt, Clara
+    - Mühlbach, Luise
+    - Mundt, Klara Müller
+    - Mühlbach, Louise
+    - Muhlbach, L. (Luise)
+    birthdate: 1814
+    deathdate: 1873
+    gutenberg_agent_id: '830'
+    url: http://www.gutenberg.org/2009/agents/830
+    wikipedia: http://de.wikipedia.org/wiki/Luise_M%C3%BChlbach
+description: ''
+gutenberg_issued: '2004-08-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13295'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Friedrich Wilhelm, Elector of Brandenburg, 1620-1688 -- Fiction'
+- !lcc 'PT'
+title: The Youth of the Great Elector
+url: http://www.gutenberg.org/ebooks/13295
