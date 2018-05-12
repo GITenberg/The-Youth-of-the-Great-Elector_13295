@@ -26,6 +26,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/830
     wikipedia: http://de.wikipedia.org/wiki/Luise_M%C3%BChlbach
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/13295#The-Youth-of-the-Great-Elector
 gutenberg_issued: '2004-08-26'
 gutenberg_type: Text
 identifiers:
